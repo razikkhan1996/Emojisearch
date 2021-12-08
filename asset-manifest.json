@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Emojisearch/static/css/main.cc15dce6.chunk.css",
+    "main.js": "/Emojisearch/static/js/main.85c4dc3b.chunk.js",
+    "main.js.map": "/Emojisearch/static/js/main.85c4dc3b.chunk.js.map",
+    "runtime-main.js": "/Emojisearch/static/js/runtime-main.b359631b.js",
+    "runtime-main.js.map": "/Emojisearch/static/js/runtime-main.b359631b.js.map",
+    "static/js/2.2cfcea4b.chunk.js": "/Emojisearch/static/js/2.2cfcea4b.chunk.js",
+    "static/js/2.2cfcea4b.chunk.js.map": "/Emojisearch/static/js/2.2cfcea4b.chunk.js.map",
+    "index.html": "/Emojisearch/index.html",
+    "static/css/main.cc15dce6.chunk.css.map": "/Emojisearch/static/css/main.cc15dce6.chunk.css.map",
+    "static/js/2.2cfcea4b.chunk.js.LICENSE.txt": "/Emojisearch/static/js/2.2cfcea4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b359631b.js",
+    "static/js/2.2cfcea4b.chunk.js",
+    "static/css/main.cc15dce6.chunk.css",
+    "static/js/main.85c4dc3b.chunk.js"
+  ]
+}
